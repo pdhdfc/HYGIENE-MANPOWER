@@ -404,7 +404,7 @@ a {
 	margin-bottom: 0;
 }
 .common-agen-menu.navbar-dark .navbar-nav .nav-link {
-    color: #ffffff;
+    color: #000000;
 }
 .common-agen-menu .navbar-nav > li > a {
     color: #ffffff;
@@ -588,7 +588,7 @@ a {
     font-weight: 800;
     letter-spacing: 1px;
 	line-height: 40px;
-	color: #ffffff;
+	color: black;
 }
 .slider-header .header-div h5 {
 	color: #ffffff;
